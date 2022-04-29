@@ -6,7 +6,7 @@
   <a href="https://steamcommunity.com/profiles/76561198131795313"> 
    <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/753/135dc1ac1cd9763dfc8ad52f4e880d2ac058a36c.jpg" alt="Steam" width="40" height="40"/> </a>
   <a href="https://www.linkedin.com/in/jeff-gao-aa73491b5/">
-   <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/> </a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/> </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
