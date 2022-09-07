@@ -25,7 +25,10 @@
    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 </p>
-
+<h3 align="left">About Me:</h3>
+<p align="left">
+I play games and watch anime when I am not wielding the power of code
+</p>
 <p>Yes, the profile picture is Seele from Honkai Impact. She is cute</p>
 <!--
    **Demopans/Demopans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
