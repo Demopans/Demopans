@@ -29,7 +29,8 @@
 <p align="left">
 I play games and watch anime when I am not wielding the power of code
 </p>
-<p>Yes, the profile picture is Seele from Honkai Impact. She is cute</p>
+<p>Profile picture is now a product of NovelAI + Photoshop.</p>
+<p>I can confidentantly say I "own" it /S</p>
 <!--
    **Demopans/Demopans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
    
