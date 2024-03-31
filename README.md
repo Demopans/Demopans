@@ -32,7 +32,7 @@
 <p align="left">
   I play games and watch anime when I am not wielding the power of code. Also, this is my de-facto website until I settle down and host it myself
 </p>
-(Current setup)[https://pcpartpicker.com/user/Demopans/saved/CGrwqs]
+<a href="https://pcpartpicker.com/user/Demopans/saved/CGrwqs">Current Setup</a>
 <!--
    **Demopans/Demopans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
    
