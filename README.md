@@ -30,8 +30,9 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-I play games and watch anime when I am not wielding the power of code. Also, this is my de-facto website until I settle down and host it myself
+  I play games and watch anime when I am not wielding the power of code. Also, this is my de-facto website until I settle down and host it myself
 </p>
+[Current setup](https://pcpartpicker.com/user/Demopans/saved/CGrwqs)
 <!--
    **Demopans/Demopans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
    
